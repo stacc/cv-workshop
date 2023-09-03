@@ -1,3 +1,9 @@
+import { Hero } from "@/components/Hero";
+
 export default function Home() {
-  return <main>hello</main>;
+  return (
+    <div className="container mx-auto mt-32">
+      <Hero />
+    </div>
+  );
 }
