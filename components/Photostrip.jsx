@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Photostrip({ images }) {
   return (
-    <div className="flex snap-x snap-mandatory justify-evenly overflow-x-auto">
+    <div className="flex snap-x snap-mandatory justify-start gap-8 overflow-x-auto">
       {images.map((image, index) => {
         // Når vi looper over lister, kan vi alle hente ut indeksen til elementet vi er på med en variabel som heter index
         return (
