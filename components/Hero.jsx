@@ -3,7 +3,7 @@ import profilBilde from "../public/profilbilde.jpg";
 
 export function Hero() {
   return (
-    <div className="flex gap-5 justify-center">
+    <div className="flex gap-5">
       <Image
         alt="Bilde av meg"
         src={profilBilde}

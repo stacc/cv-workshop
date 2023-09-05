@@ -5,7 +5,7 @@ export function Header() {
     <header className="bg-white/50 flex justify-between mx-8 sm:mx-16 my-5 flex-col sm:flex-row">
       <HeaderLink href="/">karinordmann.no</HeaderLink>
       <div className="flex gap-5">
-        <HeaderLink href="/curriculum-vitae">CURRICULUM VITAE</HeaderLink>
+        <HeaderLink href="/cv">CURRICULUM VITAE</HeaderLink>
       </div>
     </header>
   );
