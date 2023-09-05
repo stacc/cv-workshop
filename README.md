@@ -31,3 +31,5 @@ For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 Vi har laget en kort video som viser hvordan du kan kopiere koden over til din Github bruker, få ned koden lokalt og deretter få den ut på internett via Vercel.
 
 Du finner videoen [her](./videos/deploy.mov)
+
+(Når du har kopiert koden ned lokalt, ta å slett videoen fra din kode. Den er unødvendig og tar mye plass...)
