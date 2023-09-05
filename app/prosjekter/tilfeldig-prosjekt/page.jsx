@@ -2,9 +2,12 @@ import { ProjectHero } from "@/components/ProjectHero";
 import rectangle from "../../../public/rectangle.jpg";
 import { TextBlock } from "@/components/TextBlock";
 import { Photostrip } from "@/components/Photostrip";
-import designSprint from "../../../public/design-sprint.jpg";
 
-const images = [designSprint, designSprint, designSprint];
+const images = [
+  "/design-sprint.jpg",
+  "/design-sprint.jpg",
+  "/design-sprint.jpg",
+];
 
 export default async function Project() {
   return (

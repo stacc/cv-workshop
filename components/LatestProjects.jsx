@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import designSprint from "../public/design-sprint.jpg";
 
 // Her definerer hvilke prosjekter vi vil vise nedenfor.
 const latestProjects = [
@@ -8,7 +7,7 @@ const latestProjects = [
     title: "Overskrift",
     description:
       "Kort forklaring av hva prosjektet omhandlet, eventuelt hvem det var for.",
-    image: designSprint,
+    image: "/design-sprint.jpg",
     href: "/prosjekter/tilfeldig-prosjekt",
   },
 ];

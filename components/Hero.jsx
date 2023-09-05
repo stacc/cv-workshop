@@ -1,12 +1,11 @@
 import Image from "next/image";
-import profilBilde from "../public/profilbilde.jpg";
 
 export function Hero() {
   return (
     <div className="flex gap-5 flex-col sm:flex-row">
       <Image
         alt="Bilde av meg"
-        src={profilBilde}
+        src="/profilBilde.jpg"
         className="rounded-full"
         width={278}
         height={278}
