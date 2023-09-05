@@ -27,3 +27,7 @@ For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 6. (VALGFRITT): En [Vercel konto](https://vercel.com). Vi bruker Vercel til å hoste nettsiden din og gjøre den tilgjengelig for andre. Vercel er gratis! Hvis du ikke ønsker å legge ut nettsiden din, kan du skippe dette steget.
 
 ## Hvor starter jeg?
+
+Vi har laget en kort video som viser hvordan du kan kopiere koden over til din Github bruker, få ned koden lokalt og deretter få den ut på internett via Vercel.
+
+Du finner videoen [her](./videos/deploy.mov)
