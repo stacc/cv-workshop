@@ -9,6 +9,7 @@ const latestProjects = [
     description:
       "Kort forklaring av hva prosjektet omhandlet, eventuelt hvem det var for.",
     image: designSprint,
+    href: "/prosjekter/tilfeldig-prosjekt",
   },
 ];
 
@@ -35,14 +36,14 @@ export function LatestProjects() {
   );
 }
 
-function ProjectPreview({ title, description, image }) {
+function ProjectPreview({ title, description, image, href }) {
   return (
-    <div className="flex flex-col gap-4">
+    <a href={href} className="flex flex-col gap-4">
       <Image alt="Bilde av prosjektet" src={image} width={327} height={216} />
       <div className="flex flex-col gap-2">
         <h3 className="text-lg">{title}</h3>
         <p>{description}</p>
       </div>
-    </div>
+    </a>
   );
 }

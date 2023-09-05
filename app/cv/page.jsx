@@ -19,7 +19,7 @@ const sections = [
 
 export default function CV() {
   return (
-    <div className="container mx-auto mt-32 gap-16 flex flex-col">
+    <div className="container mx-auto mt-32 px-8 gap-16 flex flex-col">
       {sections.map((section) => {
         return <CVSection {...section} key={section.title} />;
       })}
