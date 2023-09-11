@@ -2,6 +2,7 @@
 
 > [!NOTE]  
 > Du står fritt til å begynne med oppgaven før workshoppen!
+> Ikke vær redd for å stille spørsmål på forhånd. Send en e-post til reinu@stacc.com om du lurer på noe som helst :)
 
 I denne workshoppen skal vi ta i bruk dette templatet for å bygge våre egen hjemmeside. Templatet inneholder det mest basale for å komme i gang. Håpet er når du er ferdig med workshoppen, har du en nettside som er tilgjengelig for andre på nett og som du har eierskap over. Du kommer kanskje ikke til å bygge veldig mye mer funksjonalitet på nettsiden, men du har en grunnlag som du kan bygge videre på i fremtiden.
 
