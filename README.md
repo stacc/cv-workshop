@@ -11,7 +11,7 @@ Templatet er bygget med [React](https://react.dev) og [NextJS](https://nextjs.or
 
 For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 
-1. En IDE, altså et program hvor du kan skrive kode. Vi anbefaler [VSCode]https://code.visualstudio.com/) som er gratis.
+1. En IDE, altså et program hvor du kan skrive kode. Vi anbefaler [VSCode](https://code.visualstudio.com/) som er gratis.
 
 2. En terminal hvor du kan skrive inn kommandoer på PC'en din. (Det er innebygget på alle datamaskiner. Søk etter `CMD` på Windows og `Terminal` på Mac)
 
@@ -33,7 +33,8 @@ Vi har laget en kort video som viser hvordan du kan kopiere koden over til din G
 
 Du finner videoen [her](./videos/deploy.mov)
 
-(Når du har kopiert koden ned lokalt, ta å slett videoen fra din kode. Den er unødvendig og tar mye plass...)
+> [!WARNING]  
+> Når du har kopiert koden ned lokalt, ta å slett videoen fra din kode. Den er unødvendig og tar mye plass...
 
 ## Hva gjør jeg nå alt er satt opp?
 
@@ -49,3 +50,7 @@ Du kan bruke `git` direkte i `VSCode` men også ved å bruke terminalen. For å 
 - `git push`, denne kommandoen dytter endringene dine til `Github` og videre ut på nettet. Du vil se endringene din live på nettsiden din.
 
 Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å skrive `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
+
+## Nyttige kilder
+
+- [Git på 100 sekunder](https://www.youtube.com/watch?v=hwP7WQkmECE)
