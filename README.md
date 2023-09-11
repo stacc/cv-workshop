@@ -1,10 +1,11 @@
 # CV Workshop
 
+> [!NOTE]  
+> Du står fritt til å begynne med oppgaven før workshoppen!
+
 I denne workshoppen skal vi ta i bruk dette templatet for å bygge våre egen hjemmeside. Templatet inneholder det mest basale for å komme i gang. Håpet er når du er ferdig med workshoppen, har du en nettside som er tilgjengelig for andre på nett og som du har eierskap over. Du kommer kanskje ikke til å bygge veldig mye mer funksjonalitet på nettsiden, men du har en grunnlag som du kan bygge videre på i fremtiden.
 
 Templatet er bygget med [React](https://react.dev) og [NextJS](https://nextjs.org). Du trenger ikke å bekymre deg hvis du ikke vet hva det betyr, vi kommer til å guide deg gjennom oppgaven. Du spør om så mye hjelp som du trenger!
-
-## Du står fritt til å begynne med oppgaven før workshoppen!
 
 ## Hva må jeg ha for å starte?
 
@@ -33,3 +34,18 @@ Vi har laget en kort video som viser hvordan du kan kopiere koden over til din G
 Du finner videoen [her](./videos/deploy.mov)
 
 (Når du har kopiert koden ned lokalt, ta å slett videoen fra din kode. Den er unødvendig og tar mye plass...)
+
+## Hva gjør jeg nå alt er satt opp?
+
+Nå er nettsiden ute på nett og vi har koden lokalt på pc'en vår, da er vi klar til å skrive kode.
+For å få koden vi skriver lokalt opp og ut på nettet, bruker vi `git` som dere lastet ned ovenfor.
+Du kan bruke `git` direkte i `VSCode` men også ved å bruke terminalen. For å bruke `git` i `terminalen` er det 3 hovedkommandoer vi skal bruke.
+
+> [!NOTE]  
+> Når vi jobber i terminalen er det viktig å huske "hvor du er" i filstrukturen din. Alle kommandoene vi kjører i denne workshoppen skal kjøres fra rot i prosjektet. Hvis du følger instruksene i videoen, vil du være i rot av prosjektet i terminalen
+
+- `git add .`, denne kommandoen "stager" alle filene i samme mappe som du er i terminalen. Å "stage" betyr at filene låses for videre endringer.
+- `git commit -m "her skriver du hvilke endringer du gjorde"`, denne kommandoen lagrer kodeendringene dine sammen med en tekst som beskriver endringene dine.
+- `git push`, denne kommandoen dytter endringene dine til `Github` og videre ut på nettet. Du vil se endringene din live på nettsiden din.
+
+Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å skrive `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
