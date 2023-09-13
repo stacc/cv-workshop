@@ -32,10 +32,7 @@ For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 
 Vi har laget en kort video som viser hvordan du kan kopiere koden over til din Github bruker, få ned koden lokalt og deretter få den ut på internett via Vercel.
 
-Du finner videoen [her](./videos/deploy.mov)
-
-> [!WARNING]  
-> Når du har kopiert koden ned lokalt, ta å slett videoen fra din kode. Den er unødvendig og tar mye plass...
+Du finner videoen [her](https://www.youtube.com/watch?v=XEVaHfDUG4w)
 
 ## Hva gjør jeg nå alt er satt opp?
 
@@ -50,7 +47,7 @@ Du kan bruke `git` direkte i `VSCode` men også ved å bruke terminalen. For å 
 - `git commit -m "her skriver du hvilke endringer du gjorde"`, denne kommandoen lagrer kodeendringene dine sammen med en tekst som beskriver endringene dine.
 - `git push`, denne kommandoen dytter endringene dine til `Github` og videre ut på nettet. Du vil se endringene din live på nettsiden din.
 
-Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å skrive `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
+Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å først skrive `npm run install` og deretter `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
 
 ## Nyttige kilder
 
