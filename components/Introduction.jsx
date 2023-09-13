@@ -1,6 +1,15 @@
+/**
+ * This component render on the main page.
+ * This includes showing of profile picture and texts.
+ * Example: 
+ * - You can try to change profile picture
+ * - Change the "Velkommen" text
+ * - Update to your name
+ */
+
 import Image from "next/image";
 
-export function Hero() {
+export function Introduction() {
   return (
     <div className="flex gap-5 flex-col sm:flex-row">
       <Image

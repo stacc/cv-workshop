@@ -1,3 +1,9 @@
+
+/**
+ * Denne komponenten renderer i prosjekt-siden (app/prosjekter/page.jsx)
+ * Den tar inn argumenter som tittel, beskrivelse og bilde.
+ * 
+ */
 import Image from "next/image";
 
 export function ProjectHero({ title, description, image }) {

@@ -1,3 +1,10 @@
+/**
+ * Denne komponenten renderer på CV siden.
+ * Komponenten består av en liste av type objekter som tilsvarer med det som vises på siden.
+ * Eksempel:
+ * - Utvide sections med flere erfaringer eller utdanning
+ * - Utvide sections med "Ferdigheter"
+ */
 import { CVSection } from "@/components/CVSection";
 
 const sections = [

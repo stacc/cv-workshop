@@ -1,3 +1,8 @@
+/**
+ * Denne komponenten renderer på hovedsiden.
+ * Den skal vise en preview av prosjekter.
+ * Dette vises tydelig dersom du har deployet appen.
+ */
 import Link from "next/link";
 import Image from "next/image";
 

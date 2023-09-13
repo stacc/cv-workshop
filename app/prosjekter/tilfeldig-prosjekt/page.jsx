@@ -1,3 +1,7 @@
+/**
+ * Dette tilsvarer en prosjekt .
+ * Denne komponenten
+ */
 import { ProjectHero } from "@/components/ProjectHero";
 import rectangle from "../../../public/rectangle.jpg";
 import { TextBlock } from "@/components/TextBlock";
