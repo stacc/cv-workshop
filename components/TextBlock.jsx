@@ -1,3 +1,6 @@
+/**
+ * Enkel komponent som viser en tittel og en beskrivelse.
+ */
 export function TextBlock({ title, description }) {
   return (
     <div className="flex flex-col gap-3">

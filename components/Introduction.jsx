@@ -1,6 +1,14 @@
+/**
+ * Denne komponenten rendrer et profilbilde og en tekst på hovedsiden.
+ * Eksempel:
+ * - Du kan endre profilbilde. Husk å legge det nye bilde ditt i public mappen.
+ * - Endre "Velkommen" teksten
+ * - Oppdater navnet og eposten til din egen.
+ */
+
 import Image from "next/image";
 
-export function Hero() {
+export function Introduction() {
   return (
     <div className="flex gap-5 flex-col sm:flex-row">
       <Image

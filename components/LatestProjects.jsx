@@ -1,3 +1,10 @@
+/**
+ * Denne komponenten rendrer på hovedsiden.
+ * Den skal vise en forhåndsvisning av prosjekter.
+ * Dette vises tydelig dersom du har deployet appen.
+ * Eksempel:
+ * - Du kan legge til flere prosjekter i latestProjects listen. Husk a siden den lenker til må også lages.
+ */
 import Link from "next/link";
 import Image from "next/image";
 

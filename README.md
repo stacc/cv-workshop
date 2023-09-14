@@ -52,3 +52,6 @@ Men når vi holder på å lage endringene våre, er det for vanskelig og tidskre
 ## Nyttige kilder
 
 - [Git på 100 sekunder](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [TailwindCSS](https://tailwindcss.com/) - Pakken vi bruker for å stilsette nettsiden.
+- [React](https://react.dev/) - Pakken som vi bruker til å bygge de ulike sidene og komponentene med
+- [NextJS](https://nextjs.org/) - NextJS ligger rundt React og gir den ekstra funksjonalitet.

@@ -1,3 +1,8 @@
+/**
+ * Denne komponenten rendrer en navigasjonsmeny. Per nå er det kun en link.
+ * Eksempel:
+ * - Du kan for eksempel utvide denne komponenten med flere linker, og legge til flere sider. Tips: Bruk HeaderLink komponenten.
+ */
 import Link from "next/link";
 
 export function Header() {
