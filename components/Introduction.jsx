@@ -1,10 +1,9 @@
 /**
- * This component render on the main page.
- * This includes showing of profile picture and texts.
- * Example: 
- * - You can try to change profile picture
- * - Change the "Velkommen" text
- * - Update to your name
+ * Denne komponenten rendrer et profilbilde og en tekst på hovedsiden.
+ * Eksempel:
+ * - Du kan endre profilbilde. Husk å legge det nye bilde ditt i public mappen.
+ * - Endre "Velkommen" teksten
+ * - Oppdater navnet og eposten til din egen.
  */
 
 import Image from "next/image";

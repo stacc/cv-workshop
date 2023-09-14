@@ -1,3 +1,10 @@
+/**
+ * Denne komponenten rendrer en seksjon som kan forestille en jobb eller utdanning du har hatt.
+ * Den tar inn en tittel, en undertittel, en periode og en beskrivelse.
+ * Eksempel:
+ * - Du kan stilsette denne på en annen måte. Kanskje andre farger?
+ * - Du kan legge til flere CVSection komponenter på CV siden din.
+ */
 export function CVSection({ title, sectionTitle, period, description }) {
   return (
     <div className="grid grid-cols-1 gap-8 md:grid-cols-3">

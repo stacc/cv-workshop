@@ -1,6 +1,12 @@
 /**
  * Dette tilsvarer en prosjekt .
- * Denne komponenten
+ * Denne siden skal vise et prosjekt.
+ * Eksempel:
+ * - Kopier denne filen og lag en ny mappe i app/prosjekter med navnet på prosjektet. Deretter limer du inn denne filen. Da vil du få en ny side på /prosjekter/navn-på-prosjektet
+ * - Endre tittelen på prosjektet
+ * - Endre ingressen
+ * - Endre bildet
+ * - Legg til flere komponenter som viser prosjektet ditt. Disse kan være helt nye komponenter, eller du kan kopiere eksisterende komponenter fra components mappen.
  */
 import { ProjectHero } from "@/components/ProjectHero";
 import rectangle from "../../../public/rectangle.jpg";

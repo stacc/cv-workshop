@@ -1,8 +1,7 @@
 /**
- * This component renders header links.
- * This vizualize a navigation menu bar. As of now there is only one link.
- * Example:
- * - You can expand the navigation bar with several HesderLink
+ * Denne komponenten rendrer en navigasjonsmeny. Per nå er det kun en link.
+ * Eksempel:
+ * - Du kan for eksempel utvide denne komponenten med flere linker, og legge til flere sider. Tips: Bruk HeaderLink komponenten.
  */
 import Link from "next/link";
 
