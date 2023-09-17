@@ -47,7 +47,7 @@ Du kan bruke `git` direkte i `VSCode` men også ved å bruke terminalen. For å 
 - `git commit -m "her skriver du hvilke endringer du gjorde"`, denne kommandoen lagrer kodeendringene dine sammen med en tekst som beskriver endringene dine.
 - `git push`, denne kommandoen dytter endringene dine til `Github` og videre ut på nettet. Du vil se endringene din live på nettsiden din.
 
-Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å først skrive `npm run install` og deretter `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
+Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å først skrive `npm install` og deretter `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
 
 ## Nyttige kilder
 
