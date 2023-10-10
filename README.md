@@ -55,3 +55,8 @@ Men når vi holder på å lage endringene våre, er det for vanskelig og tidskre
 - [TailwindCSS](https://tailwindcss.com/) - Pakken vi bruker for å stilsette nettsiden.
 - [React](https://react.dev/) - Pakken som vi bruker til å bygge de ulike sidene og komponentene med
 - [NextJS](https://nextjs.org/) - NextJS ligger rundt React og gir den ekstra funksjonalitet.
+
+## Discord
+
+Gjerne ta i bruk Discord serveren til Stacc Girlpower for å stille spørsmål både før og etter workshoppen!
+[![Join us on Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594fddd654fc29fcc07359_cb48d2a8d4991281d7a6a95d2f58195e.svg)](https://discord.gg/FhrMvpKMEw)
