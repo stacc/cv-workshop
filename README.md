@@ -30,9 +30,17 @@ For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 
 ## Hvor starter jeg?
 
-Vi har laget en kort video som viser hvordan du kan kopiere koden over til din Github bruker, få ned koden lokalt og deretter få den ut på internett via Vercel.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fstacc%2Fcv-workshop&project-name=min-nettside&repository-name=cv-nettside&redirect-url=https%3A%2F%2Fgithub.com%2Fstacc%2Fcv-workshop&demo-title=Din%20egen%20hjemmeside!&demo-description=Snart%20har%20du%20din%20egen%20nettside%20live%20p%C3%A5%20internett!&demo-url=https%3A%2F%2Fstacc.com&demo-image=https%3A%2F%2Fscontent.fsvg2-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F277743561_1426907474412582_2576987049166049851_n.png%3F_nc_cat%3D102%26ccb%3D1-7%26_nc_sid%3D1ac024%26_nc_ohc%3DVeh_am-zic4AX_Zhiwk%26_nc_ht%3Dscontent.fsvg2-1.fna%26oh%3D00_AfC_z3A6nrn5ZnCi3dTROTTcndiQ8ktENqBHnsUNbbfUvg%26oe%3D652B5742)
 
-Du finner videoen [her](https://www.youtube.com/watch?v=XEVaHfDUG4w)
+Start med å trykke knappen ovenfor, den vil starte en prosess som hjelper med følgende:
+1. Lage eventuell Vercel- og Github konto, samt koble dem sammen.
+2. Klone koden fra dette repositoriet til din egen konto.
+3. Legge siden ut på internett, samt koble sammen hver gang du pusher nye endringer til Github, så vil det endre nettsiden.
+
+Etterpå er du nødt til å klone ned repoet lokalt slik at du kan begynne å endre på koden selv.
+Vi har en video under som viser dette
+
+Vi har laget en kort video som viser hele denne prosessen. Du finner videoen [her](https://www.youtube.com/watch?v=XEVaHfDUG4w)
 
 ## Hva gjør jeg nå alt er satt opp?
 
