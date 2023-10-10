@@ -40,7 +40,7 @@ Start med å trykke knappen ovenfor, den vil starte en prosess som hjelper med f
 Etterpå er du nødt til å klone ned repoet lokalt slik at du kan begynne å endre på koden selv.
 Vi har en video under som viser dette
 
-Vi har laget en kort video som viser hele denne prosessen. Du finner videoen [her](https://www.youtube.com/watch?v=XEVaHfDUG4w)
+Vi har laget en kort video som viser hele denne prosessen. Du finner videoen [her](https://youtu.be/I0q2DAXPdKc)
 
 ## Hva gjør jeg nå alt er satt opp?
 
