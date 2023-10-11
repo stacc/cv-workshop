@@ -1,4 +1,4 @@
-# CV Workshop
+# CV Workshop 👷‍♀️
 
 > [!NOTE]  
 > Du står fritt til å begynne med oppgaven før workshoppen!
@@ -8,7 +8,7 @@ I denne workshoppen skal vi ta i bruk dette templatet for å bygge våre egen hj
 
 Templatet er bygget med [React](https://react.dev) og [NextJS](https://nextjs.org). Du trenger ikke å bekymre deg hvis du ikke vet hva det betyr, vi kommer til å guide deg gjennom oppgaven. Du spør om så mye hjelp som du trenger!
 
-## Hva må jeg ha for å starte?
+## Hva må jeg ha for å starte? 📝
 
 For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 
@@ -28,7 +28,7 @@ For å ta i bruk dette templatet trenger du noen grunnleggende ting:
 
 6. (VALGFRITT): En [Vercel konto](https://vercel.com). Vi bruker Vercel til å hoste nettsiden din og gjøre den tilgjengelig for andre. Vercel er gratis! Hvis du ikke ønsker å legge ut nettsiden din, kan du skippe dette steget.
 
-## Hvor starter jeg?
+## Hvor starter jeg? 👩‍💻
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fstacc%2Fcv-workshop&project-name=cv-nettside&repository-name=cv-nettside&demo-title=Din%20egen%20hjemmeside&demo-description=Snart%20din%20egen%20hjemmeside%20p%C3%A5%20internett!&demo-url=https%3A%2F%2Fstacc.com&demo-image=https%3A%2F%2Fscontent.fsvg2-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F277743561_1426907474412582_2576987049166049851_n.png%3F_nc_cat%3D102%26ccb%3D1-7%26_nc_sid%3D1ac024%26_nc_ohc%3DVeh_am-zic4AX_Zhiwk%26_nc_ht%3Dscontent.fsvg2-1.fna%26oh%3D00_AfC_z3A6nrn5ZnCi3dTROTTcndiQ8ktENqBHnsUNbbfUvg%26oe%3D652B5742)
 
@@ -42,7 +42,7 @@ Vi har en video under som viser dette
 
 Vi har laget en kort video som viser hele denne prosessen. Du finner videoen [her](https://youtu.be/I0q2DAXPdKc)
 
-## Hva gjør jeg nå alt er satt opp?
+## Hva gjør jeg nå alt er satt opp? 🚀
 
 Nå er nettsiden ute på nett og vi har koden lokalt på pc'en vår, da er vi klar til å skrive kode.
 For å få koden vi skriver lokalt opp og ut på nettet, bruker vi `git` som dere lastet ned ovenfor.
@@ -63,7 +63,20 @@ Andre kommandoer som det er greit å kunne i terminalen:
 - Navigere deg til en ny mappe fra hvor du står: `cd bytt_ut_med_mappe_navn`
 - Åpne `VSCode` i den mappen du står i: `code .`
 
-## Nyttige kilder
+
+## Hva nå? 🤷‍♀️
+
+Du står nå fritt frem til å style, bygge videre eller gjøre hva du vil med siden.
+Her er noen forslag til hva du kan gjøre med den:
+
+- Lag en ny side som samler alle prosjektene dine, og legg en link til denne i menyen. Tips! Her kan du kanskje gjenbruke prosjektmodulen fra landingssiden?
+- Legge til en seksjon for “Kurs”, “Frivillig” eller “Annet” på CV-siden
+- Lag en footer 
+  - **Tips!** _Footeren bør inneholde informasjon brukeren vil ha raskt. For eksempel kontaktinformasjon eller linker til sosiale medier._
+- Fyll ut informasjon i en artikkel, og legg til et enkelt bilde med bildetekst i teksten.  
+  - **Tips!** _Lek deg rundt med former, farger og fonter for å gjøre nettsiden til din egen 🌸_
+
+## Nyttige kilder 📚
 
 - [Git på 100 sekunder](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [TailwindCSS](https://tailwindcss.com/) - Pakken vi bruker for å stilsette nettsiden.
