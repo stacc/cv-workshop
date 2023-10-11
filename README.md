@@ -57,6 +57,12 @@ Du kan bruke `git` direkte i `VSCode` men også ved å bruke terminalen. For å 
 
 Men når vi holder på å lage endringene våre, er det for vanskelig og tidskrevende å dytte kode ut på nett for å se endringene våre. Vi kjører da opp nettsiden lokalt. Det gjør vi ved å først skrive `npm install` og deretter `npm run dev` i terminalen vår. Da vil du kunne bevege deg til nettleseren din og skrive inn `localhost:3000`. Her vil alle endringer du gjør lokalt vise seg når du lagrer filene.
 
+Andre kommandoer som det er greit å kunne i terminalen:
+- Liste ut alle filer og mapper i den mappen du befinner deg i: `ls` på Mac/Linux og `dir` på Windows
+- Navigere deg en mappe ut: `cd ..`
+- Navigere deg til en ny mappe fra hvor du står: `cd bytt_ut_med_mappe_navn`
+- Åpne `VSCode` i den mappen du står i: `code .`
+
 ## Nyttige kilder
 
 - [Git på 100 sekunder](https://www.youtube.com/watch?v=hwP7WQkmECE)
