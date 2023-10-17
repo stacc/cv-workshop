@@ -12,7 +12,7 @@ const sections = [
     title: "Erfaring",
     items: [
       {
-        sectionTitle: "Arbeidssted | Rolle",
+        title: "Arbeidssted | Rolle",
         period: "Måned YYYY - Måned YYYY",
         description:
           "En rask beskrivelse av hva arbeidsoppgavene var i erfaringen. Hva tar du med deg fra stedet. Jobbet du med noen andre? Hva var ansvarsområder? Beskriv kort.",
@@ -23,13 +23,13 @@ const sections = [
     title: "Utdanning",
     items: [
       {
-        sectionTitle: "Utdanningssted | Studieretning",
+        title: "Utdanningssted | Studieretning",
         period: "Måned YYYY - Måned YYYY",
         description:
           "En rask beskrivelse av hva du skulle lære og lærte på studiet. Er det noe spesielt du tar med deg videre? Hva var det du fordypte deg i? Beskriv kort.",
       },
       {
-        sectionTitle: "Utdanningssted | Studieretning",
+        title: "Utdanningssted | Studieretning",
         period: "Måned YYYY - Måned YYYY",
         description:
           "En rask beskrivelse av hva du skulle lære og lærte på studiet. Er det noe spesielt du tar med deg videre? Hva var det du fordypte deg i? Beskriv kort.",
