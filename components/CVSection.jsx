@@ -20,7 +20,7 @@ export function CVSection({ title, items }) {
 
 function CVItem({ title, period, description }) {
   return (
-    <div className="flex flex-col col-span-2 gap-2 col-start-1 sm:col-start-2 row-start-2 sm:row-start-1">
+    <div className="flex flex-col col-span-2 gap-2 col-start-1 sm:col-start-2">
       <div className="flex flex-col">
         <span className="font-bold">{title}</span>
         <span>{period}</span>
